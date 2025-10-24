@@ -1,0 +1,3342 @@
+fileFormatVersion: 2
+guid: df6dcad6a8c3cae4abdc67832b3bcb6d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1880313415691300397
+    second: DotDtile_Cccreations_0
+  - first:
+      213: -3605710128178255346
+    second: DotDtile_Cccreations_1
+  - first:
+      213: 3897029744735952760
+    second: DotDtile_Cccreations_2
+  - first:
+      213: 7035114856812215110
+    second: DotDtile_Cccreations_3
+  - first:
+      213: 5225649302400549478
+    second: DotDtile_Cccreations_4
+  - first:
+      213: 8396638918398629325
+    second: DotDtile_Cccreations_5
+  - first:
+      213: 6052031391905548338
+    second: DotDtile_Cccreations_6
+  - first:
+      213: 7395412537480136604
+    second: DotDtile_Cccreations_7
+  - first:
+      213: -8749717050428871762
+    second: DotDtile_Cccreations_8
+  - first:
+      213: 5144390639031798287
+    second: DotDtile_Cccreations_9
+  - first:
+      213: -6905536204092540428
+    second: DotDtile_Cccreations_10
+  - first:
+      213: -2370382929993512125
+    second: DotDtile_Cccreations_11
+  - first:
+      213: 7014400837573517641
+    second: DotDtile_Cccreations_12
+  - first:
+      213: 2013505066662319898
+    second: DotDtile_Cccreations_13
+  - first:
+      213: 1176919635161650362
+    second: DotDtile_Cccreations_14
+  - first:
+      213: -2263236539853159393
+    second: DotDtile_Cccreations_15
+  - first:
+      213: 5955497312666706170
+    second: DotDtile_Cccreations_16
+  - first:
+      213: 7303873666624470492
+    second: DotDtile_Cccreations_17
+  - first:
+      213: 6665577252366707738
+    second: DotDtile_Cccreations_18
+  - first:
+      213: 3977399571950695732
+    second: DotDtile_Cccreations_19
+  - first:
+      213: -3449682126768812996
+    second: DotDtile_Cccreations_20
+  - first:
+      213: -1869446741872030118
+    second: DotDtile_Cccreations_21
+  - first:
+      213: 4993937314205038164
+    second: DotDtile_Cccreations_22
+  - first:
+      213: -4785258859813740667
+    second: DotDtile_Cccreations_23
+  - first:
+      213: -963990913101555262
+    second: DotDtile_Cccreations_24
+  - first:
+      213: -6662377318653745758
+    second: DotDtile_Cccreations_25
+  - first:
+      213: 8406027406544125450
+    second: DotDtile_Cccreations_26
+  - first:
+      213: -2819459883933847695
+    second: DotDtile_Cccreations_27
+  - first:
+      213: -3414256100291225144
+    second: DotDtile_Cccreations_28
+  - first:
+      213: 5825780279375135853
+    second: DotDtile_Cccreations_29
+  - first:
+      213: 3767137839104098088
+    second: DotDtile_Cccreations_30
+  - first:
+      213: 516552773657176805
+    second: DotDtile_Cccreations_31
+  - first:
+      213: 1199660159441362985
+    second: DotDtile_Cccreations_32
+  - first:
+      213: 3533098777605258229
+    second: DotDtile_Cccreations_33
+  - first:
+      213: 3453974248137168507
+    second: DotDtile_Cccreations_34
+  - first:
+      213: -2808296504495243615
+    second: DotDtile_Cccreations_35
+  - first:
+      213: 2664843150205048064
+    second: DotDtile_Cccreations_36
+  - first:
+      213: -1072986692003940718
+    second: DotDtile_Cccreations_37
+  - first:
+      213: 7866748861035960328
+    second: DotDtile_Cccreations_38
+  - first:
+      213: 5734723189563886369
+    second: DotDtile_Cccreations_39
+  - first:
+      213: -137589037376811014
+    second: DotDtile_Cccreations_40
+  - first:
+      213: 8766454833519009646
+    second: DotDtile_Cccreations_41
+  - first:
+      213: -5453063056961146693
+    second: DotDtile_Cccreations_42
+  - first:
+      213: -8350603306351235114
+    second: DotDtile_Cccreations_43
+  - first:
+      213: -6286179727830087944
+    second: DotDtile_Cccreations_44
+  - first:
+      213: 6485479994494278047
+    second: DotDtile_Cccreations_45
+  - first:
+      213: -6966597213325605131
+    second: DotDtile_Cccreations_46
+  - first:
+      213: -5610325291912221477
+    second: DotDtile_Cccreations_47
+  - first:
+      213: 6332822332432913196
+    second: DotDtile_Cccreations_48
+  - first:
+      213: -1089422478541921452
+    second: DotDtile_Cccreations_49
+  - first:
+      213: 1782055871913263566
+    second: DotDtile_Cccreations_50
+  - first:
+      213: -7161502785414271787
+    second: DotDtile_Cccreations_51
+  - first:
+      213: 4071103781079749672
+    second: DotDtile_Cccreations_52
+  - first:
+      213: -1784326554864094588
+    second: DotDtile_Cccreations_53
+  - first:
+      213: 722370772904654870
+    second: DotDtile_Cccreations_54
+  - first:
+      213: -4350055440207577969
+    second: DotDtile_Cccreations_55
+  - first:
+      213: -2215526176853819214
+    second: DotDtile_Cccreations_56
+  - first:
+      213: -7435927802347569664
+    second: DotDtile_Cccreations_57
+  - first:
+      213: -8191441625774933940
+    second: DotDtile_Cccreations_58
+  - first:
+      213: 7154459668372130500
+    second: DotDtile_Cccreations_59
+  - first:
+      213: -2698554254442968128
+    second: DotDtile_Cccreations_60
+  - first:
+      213: 3243505904027657250
+    second: DotDtile_Cccreations_61
+  - first:
+      213: 1169302516500747257
+    second: DotDtile_Cccreations_62
+  - first:
+      213: -5774194626886364248
+    second: DotDtile_Cccreations_63
+  - first:
+      213: -7606164983143082909
+    second: DotDtile_Cccreations_64
+  - first:
+      213: 4291279029154016025
+    second: DotDtile_Cccreations_65
+  - first:
+      213: 3990600545520962010
+    second: DotDtile_Cccreations_66
+  - first:
+      213: 6099703614822742836
+    second: DotDtile_Cccreations_67
+  - first:
+      213: -8322834835822198455
+    second: DotDtile_Cccreations_68
+  - first:
+      213: -4172043711004541246
+    second: DotDtile_Cccreations_69
+  - first:
+      213: 990204068144829503
+    second: DotDtile_Cccreations_70
+  - first:
+      213: 6177516391520020020
+    second: DotDtile_Cccreations_71
+  - first:
+      213: -2723836487888776777
+    second: DotDtile_Cccreations_72
+  - first:
+      213: -5627710894877280757
+    second: DotDtile_Cccreations_73
+  - first:
+      213: -9178253023576911980
+    second: DotDtile_Cccreations_74
+  - first:
+      213: -3599868764805237313
+    second: DotDtile_Cccreations_75
+  - first:
+      213: -6663667454596776378
+    second: DotDtile_Cccreations_76
+  - first:
+      213: -7549535831228980473
+    second: DotDtile_Cccreations_77
+  - first:
+      213: 4929493418173443224
+    second: DotDtile_Cccreations_78
+  - first:
+      213: -8798875043764730772
+    second: DotDtile_Cccreations_79
+  - first:
+      213: 6183415054682096635
+    second: DotDtile_Cccreations_80
+  - first:
+      213: -3168968540527502719
+    second: DotDtile_Cccreations_81
+  - first:
+      213: -8278029361767134598
+    second: DotDtile_Cccreations_82
+  - first:
+      213: 4300518535762887074
+    second: DotDtile_Cccreations_83
+  - first:
+      213: -5855293401431303155
+    second: DotDtile_Cccreations_84
+  - first:
+      213: -2211590590737748885
+    second: DotDtile_Cccreations_85
+  - first:
+      213: -1220435884930177508
+    second: DotDtile_Cccreations_86
+  - first:
+      213: -8696821978758342340
+    second: DotDtile_Cccreations_87
+  - first:
+      213: -6080057115073301462
+    second: DotDtile_Cccreations_88
+  - first:
+      213: -9194255360770831864
+    second: DotDtile_Cccreations_89
+  - first:
+      213: -3182147201492932513
+    second: DotDtile_Cccreations_90
+  - first:
+      213: 3615509304308987655
+    second: DotDtile_Cccreations_91
+  - first:
+      213: -4020010105167916398
+    second: DotDtile_Cccreations_92
+  - first:
+      213: 4269036184058194091
+    second: DotDtile_Cccreations_93
+  - first:
+      213: -475188812800553910
+    second: DotDtile_Cccreations_94
+  - first:
+      213: -3403116571020062471
+    second: DotDtile_Cccreations_95
+  - first:
+      213: 1401817968532992272
+    second: DotDtile_Cccreations_96
+  - first:
+      213: 6452065755073812292
+    second: DotDtile_Cccreations_97
+  - first:
+      213: -7796602848071499459
+    second: DotDtile_Cccreations_98
+  - first:
+      213: -9095930289471179870
+    second: DotDtile_Cccreations_99
+  - first:
+      213: -90174266593371018
+    second: DotDtile_Cccreations_100
+  - first:
+      213: -2768013737983093456
+    second: DotDtile_Cccreations_101
+  - first:
+      213: -8614292428931725282
+    second: DotDtile_Cccreations_102
+  - first:
+      213: -8872725475857738914
+    second: DotDtile_Cccreations_103
+  - first:
+      213: 1722229047783952647
+    second: DotDtile_Cccreations_104
+  - first:
+      213: 256235133629872935
+    second: DotDtile_Cccreations_105
+  - first:
+      213: 7016805512537482907
+    second: DotDtile_Cccreations_106
+  - first:
+      213: 8671163105314531222
+    second: DotDtile_Cccreations_107
+  - first:
+      213: 7284284528770309630
+    second: DotDtile_Cccreations_108
+  - first:
+      213: 6006785503262932658
+    second: DotDtile_Cccreations_109
+  - first:
+      213: -7457868138877111079
+    second: DotDtile_Cccreations_110
+  - first:
+      213: -4403945206879368807
+    second: DotDtile_Cccreations_111
+  - first:
+      213: 1137591122162540322
+    second: DotDtile_Cccreations_112
+  - first:
+      213: 1736945803158354202
+    second: DotDtile_Cccreations_113
+  - first:
+      213: 2765211212386232868
+    second: DotDtile_Cccreations_114
+  - first:
+      213: 6783794485893754188
+    second: DotDtile_Cccreations_115
+  - first:
+      213: 7654093054800649403
+    second: DotDtile_Cccreations_116
+  - first:
+      213: -6882805317905660721
+    second: DotDtile_Cccreations_117
+  - first:
+      213: -8329076613332294486
+    second: DotDtile_Cccreations_118
+  - first:
+      213: -6446704591596571133
+    second: DotDtile_Cccreations_119
+  - first:
+      213: 5593454037006953087
+    second: DotDtile_Cccreations_120
+  - first:
+      213: -4111550064863783376
+    second: DotDtile_Cccreations_121
+  - first:
+      213: -1988638120602075880
+    second: DotDtile_Cccreations_122
+  - first:
+      213: 5560316818451323183
+    second: DotDtile_Cccreations_123
+  - first:
+      213: -8458696036173570319
+    second: DotDtile_Cccreations_124
+  - first:
+      213: 6312956184186922503
+    second: DotDtile_Cccreations_125
+  - first:
+      213: 5952429869735364578
+    second: DotDtile_Cccreations_126
+  - first:
+      213: -719553461740611573
+    second: DotDtile_Cccreations_127
+  - first:
+      213: -2407586031548030059
+    second: DotDtile_Cccreations_128
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_0
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 733
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e6ea8d617381a10800000000000000
+      internalID: 1880313415691300397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_1
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 733
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a28e60eb1f5fdc0800000000000000
+      internalID: -3605710128178255346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_2
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 733
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f1e1ec7e7051630800000000000000
+      internalID: 3897029744735952760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_3
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 719
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b7d5a40bfb1a160800000000000000
+      internalID: 7035114856812215110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_4
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 719
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6624a569a5c358840800000000000000
+      internalID: 5225649302400549478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_5
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 719
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5de56eb9ad68470800000000000000
+      internalID: 8396638918398629325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_6
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 737
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2380b046c722df350800000000000000
+      internalID: 6052031391905548338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_7
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 737
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9749ff2588c1a660800000000000000
+      internalID: 7395412537480136604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_8
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 737
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab220c53b2c29680800000000000000
+      internalID: -8749717050428871762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_9
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 732
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ac551b70c846740800000000000000
+      internalID: 5144390639031798287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_10
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 732
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9f673d86b9a20a0800000000000000
+      internalID: -6905536204092540428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_11
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 732
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b4614b845ba1fd0800000000000000
+      internalID: -2370382929993512125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 670
+        width: 289
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941a5cbd568285160800000000000000
+      internalID: 7014400837573517641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_13
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 670
+        width: 94
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a175bdba03861fb10800000000000000
+      internalID: 2013505066662319898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_14
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 671
+        width: 50
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab41efe2c22455010800000000000000
+      internalID: 1176919635161650362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_15
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 670
+        width: 75
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f144e5fab5e5790e0800000000000000
+      internalID: -2263236539853159393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_16
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 670
+        width: 75
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0ea46904d26a250800000000000000
+      internalID: 5955497312666706170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_17
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 670
+        width: 75
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd3b77f6629c5560800000000000000
+      internalID: 7303873666624470492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 633
+        width: 289
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ced3ef133e08c50800000000000000
+      internalID: 6665577252366707738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_19
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 635
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43579e766df823730800000000000000
+      internalID: 3977399571950695732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_20
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 633
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c4ee502644020d0800000000000000
+      internalID: -3449682126768812996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_21
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 634
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ec430d7146e06e0800000000000000
+      internalID: -1869446741872030118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_22
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 633
+        width: 75
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45672cb37870e4540800000000000000
+      internalID: 4993937314205038164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_23
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 633
+        width: 75
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58fd28e9b68579db0800000000000000
+      internalID: -4785258859813740667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_24
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 633
+        width: 75
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c990e93f573f92f0800000000000000
+      internalID: -963990913101555262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 597
+        width: 289
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a52602a02b7a83a0800000000000000
+      internalID: -6662377318653745758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_26
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 574
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0eb243a36538a470800000000000000
+      internalID: 8406027406544125450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_27
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 597
+        width: 50
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17fa8a77c244fd8d0800000000000000
+      internalID: -2819459883933847695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_28
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 598
+        width: 50
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c95ee19a202e90d0800000000000000
+      internalID: -3414256100291225144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_29
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 597
+        width: 75
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6481ab3c4459d050800000000000000
+      internalID: 5825780279375135853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_30
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 597
+        width: 75
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f7bbfc7ef874430800000000000000
+      internalID: 3767137839104098088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_31
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 597
+        width: 75
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea2495c20a2b2700800000000000000
+      internalID: 516552773657176805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_32
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 540
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920e0b61f8c06a010800000000000000
+      internalID: 1199660159441362985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_33
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 540
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb378b7e96180130800000000000000
+      internalID: 3533098777605258229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_34
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 540
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b76109b574bfeef20800000000000000
+      internalID: 3453974248137168507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_35
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 527
+        width: 98
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aef699453de609d0800000000000000
+      internalID: -2808296504495243615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_36
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 527
+        width: 194
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005da16e9bc6bf420800000000000000
+      internalID: 2664843150205048064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_37
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 527
+        width: 98
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296326ed94cfb11f0800000000000000
+      internalID: -1072986692003940718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_38
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 502
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808d147c86e4c2d60800000000000000
+      internalID: 7866748861035960328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_39
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 502
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b86276b54d59f40800000000000000
+      internalID: 5734723189563886369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_40
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 502
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: affca2edf7f271ef0800000000000000
+      internalID: -137589037376811014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_41
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 479
+        width: 98
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f18637934b8a970800000000000000
+      internalID: 8766454833519009646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_42
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 479
+        width: 194
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb076009a04d254b0800000000000000
+      internalID: -5453063056961146693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_43
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 464
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df6bb84982bc1c80800000000000000
+      internalID: -8350603306351235114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_44
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 464
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f60d68d7d003c8a0800000000000000
+      internalID: -6286179727830087944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_45
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 464
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f99dbb581bd010a50800000000000000
+      internalID: 6485479994494278047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_46
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 431
+        width: 98
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6408ebebca15f90800000000000000
+      internalID: -6966597213325605131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_47
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 431
+        width: 194
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdcae2d2fde1422b0800000000000000
+      internalID: -5610325291912221477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_48
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 382
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23135ecb54b2e750800000000000000
+      internalID: 6332822332432913196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_49
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 382
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 453ee2c170891e0f0800000000000000
+      internalID: -1089422478541921452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_50
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 383
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec10a4faf522bb810800000000000000
+      internalID: 1782055871913263566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_51
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 383
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc6961f82b3d9c90800000000000000
+      internalID: -7161502785414271787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_52
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 341
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824120bb1577f7830800000000000000
+      internalID: 4071103781079749672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_53
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 341
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482770eb37ccc37e0800000000000000
+      internalID: -1784326554864094588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_54
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 342
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6183b130460660a00800000000000000
+      internalID: 722370772904654870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_55
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 342
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8cfb2def9f71a3c0800000000000000
+      internalID: -4350055440207577969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_56
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 301
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b08c063eaed041e0800000000000000
+      internalID: -2215526176853819214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_57
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 301
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e3f9d9f074ec890800000000000000
+      internalID: -7435927802347569664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_58
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 302
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c483651dd37225e80800000000000000
+      internalID: -8191441625774933940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_59
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 302
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca0e25992fb94360800000000000000
+      internalID: 7154459668372130500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 244
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cbcec0043fcc8ad0800000000000000
+      internalID: -2698554254442968128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_61
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 242
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22463745f6f330d20800000000000000
+      internalID: 3243505904027657250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_62
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 252
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f35ffa81723a3010800000000000000
+      internalID: 1169302516500747257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_63
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 247
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a318707490fddfa0800000000000000
+      internalID: -5774194626886364248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_64
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 250
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364ddbc3f39717690800000000000000
+      internalID: -7606164983143082909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_65
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 251
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91beec47a8fad8b30800000000000000
+      internalID: 4291279029154016025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_66
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 241
+        width: 45
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9c1449d06716730800000000000000
+      internalID: 3990600545520962010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_67
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 241
+        width: 121
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43bfcacbe1086a450800000000000000
+      internalID: 6099703614822742836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_68
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 239
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941429620d95f7c80800000000000000
+      internalID: -8322834835822198455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_69
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 250
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cefb2a695ce916c0800000000000000
+      internalID: -4172043711004541246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_70
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 245
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f345be88a59edbd00800000000000000
+      internalID: 990204068144829503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_71
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 245
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43624be9d62fab550800000000000000
+      internalID: 6177516391520020020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_72
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 245
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b15421552df23ad0800000000000000
+      internalID: -2723836487888776777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_73
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 239
+        width: 45
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b067e3c02ca56e1b0800000000000000
+      internalID: -5627710894877280757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_74
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 238
+        width: 74
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f0b07e08b40a080800000000000000
+      internalID: -9178253023576911980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 197
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb572cb6e62ba0ec0800000000000000
+      internalID: -3599868764805237313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_76
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 194
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e7d6371c5e583a0800000000000000
+      internalID: -6663667454596776378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_77
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 205
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70363802929aa3790800000000000000
+      internalID: -7549535831228980473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_78
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 200
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89caad07524196440800000000000000
+      internalID: 4929493418173443224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_79
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 203
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c648a5124cd14e580800000000000000
+      internalID: -8798875043764730772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_80
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 204
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf301292b37efc550800000000000000
+      internalID: 6183415054682096635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_81
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 194
+        width: 45
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a587df6ef8504d0800000000000000
+      internalID: -3168968540527502719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_82
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 192
+        width: 97
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7acd9387288e1d80800000000000000
+      internalID: -8278029361767134598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_83
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 192
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1412ab2d28eab30800000000000000
+      internalID: 4300518535762887074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_84
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 203
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c9fff8ca1ddbea0800000000000000
+      internalID: -5855293401431303155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_85
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 198
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6cea72431ade41e0800000000000000
+      internalID: -2211590590737748885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_86
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 198
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16e89f5704201fe0800000000000000
+      internalID: -1220435884930177508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_87
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 198
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c399c41fc7eae4780800000000000000
+      internalID: -8696821978758342340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_88
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 192
+        width: 45
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2438f1744c4f9ba0800000000000000
+      internalID: -6080057115073301462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_89
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 189
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a060f6671776080800000000000000
+      internalID: -9194255360770831864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 148
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58a200eafdb6d3d0800000000000000
+      internalID: -3182147201492932513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_91
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 146
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707f4757e8edc2230800000000000000
+      internalID: 3615509304308987655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_92
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 156
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2925cf7bb1e0638c0800000000000000
+      internalID: -4020010105167916398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_93
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 151
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8e3148ac9ae3b30800000000000000
+      internalID: 4269036184058194091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_94
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 154
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c88cbda4ac769f0800000000000000
+      internalID: -475188812800553910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_95
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 155
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f09a175283b5c0d0800000000000000
+      internalID: -3403116571020062471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_96
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 145
+        width: 45
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0113b26e302447310800000000000000
+      internalID: 1401817968532992272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_97
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 144
+        width: 97
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44713a6ae975a8950800000000000000
+      internalID: 6452065755073812292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_98
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 143
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3146e19407ecc390800000000000000
+      internalID: -7796602848071499459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_99
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 154
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3ba521893c4c180800000000000000
+      internalID: -9095930289471179870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_100
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 149
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c12d77bf2afbef0800000000000000
+      internalID: -90174266593371018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_101
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 149
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035dd1ebb2a0699d0800000000000000
+      internalID: -2768013737983093456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_102
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 149
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1800362da2e37880800000000000000
+      internalID: -8614292428931725282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_103
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 143
+        width: 45
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53d0fd703fbdd480800000000000000
+      internalID: -8872725475857738914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_104
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 141
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7019507b13696e710800000000000000
+      internalID: 1722229047783952647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 101
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72bbbf61f745e8300800000000000000
+      internalID: 256235133629872935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_106
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 99
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b96acc0ef63b06160800000000000000
+      internalID: 7016805512537482907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_107
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 109
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697eeb907e8265870800000000000000
+      internalID: 8671163105314531222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_108
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 104
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd5a346f2af61560800000000000000
+      internalID: 7284284528770309630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_109
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 107
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bef3f307936c5350800000000000000
+      internalID: 6006785503262932658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_110
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 108
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4b680f074508890800000000000000
+      internalID: -7457868138877111079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_111
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 98
+        width: 45
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999cbadda2b02e2c0800000000000000
+      internalID: -4403945206879368807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_112
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 96
+        width: 97
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22fd220391989cf00800000000000000
+      internalID: 1137591122162540322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_113
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 96
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19fb57510fda1810800000000000000
+      internalID: 1736945803158354202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_114
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 107
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a653b62f0006620800000000000000
+      internalID: 2765211212386232868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_115
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 102
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d63f09421e42e50800000000000000
+      internalID: 6783794485893754188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_116
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 102
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc5d29841dc83a60800000000000000
+      internalID: 7654093054800649403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_117
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 102
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc44010b70d5b70a0800000000000000
+      internalID: -6882805317905660721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_118
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 96
+        width: 45
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa4a05313fc296c80800000000000000
+      internalID: -8329076613332294486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_119
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 93
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306b10e7454b886a0800000000000000
+      internalID: -6446704591596571133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_120
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 59
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a264fafc0ff9d40800000000000000
+      internalID: 5593454037006953087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_121
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 55
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0365f8bfff6d0f6c0800000000000000
+      internalID: -4111550064863783376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_122
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 76
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d76b26a20f664e0800000000000000
+      internalID: -1988638120602075880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_123
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 56
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29db62cfa63a2d40800000000000000
+      internalID: 5560316818451323183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_124
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 56
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe9edc65ccac9a80800000000000000
+      internalID: -8458696036173570319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_125
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 66
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7062119b3302c9750800000000000000
+      internalID: 6312956184186922503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_126
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 53
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e74000ed674b9250800000000000000
+      internalID: 5952429869735364578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_127
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 53
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b085c0c50f1a306f0800000000000000
+      internalID: -719553461740611573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DotDtile_Cccreations_128
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 53
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593236f9249869ed0800000000000000
+      internalID: -2407586031548030059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
