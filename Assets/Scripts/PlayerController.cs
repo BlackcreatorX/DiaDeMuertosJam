@@ -1,5 +1,8 @@
 using System.Collections;
 using UnityEngine;
+using Unity.Cinemachine;
+using Unity.VisualScripting;
+
 
 public class PlayerController : MonoBehaviour
 {
@@ -17,6 +20,12 @@ public class PlayerController : MonoBehaviour
     private Vector2 movement;
     private bool canMove = true;
 
+    [SerializeField] private GameObject OtroChar;
+
+    [SerializeField] private CinemachineCamera camaraPrincipal;
+    public bool darkModeActive = false;
+
+
     void Update()
     {
         if (canMove)
@@ -28,6 +37,10 @@ public class PlayerController : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.E))
         {
             Interaccion();
+        }
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+        cambioDePersonaje();
         }
     }
 
@@ -63,8 +76,8 @@ public class PlayerController : MonoBehaviour
         // Dispara una animación (por ejemplo, levantar algo o saludar)
         animator.SetTrigger("Accion");
 
-       
-         StartCoroutine(BloquearMovimientoPorAnimacion());
+
+        StartCoroutine(BloquearMovimientoPorAnimacion());
     }
 
     private IEnumerator BloquearMovimientoPorAnimacion()
@@ -73,5 +86,24 @@ public class PlayerController : MonoBehaviour
         yield return new WaitForSeconds(0.5f); // Duración de la animación
         canMove = true;
     }
-    
+
+
+  void cambioDePersonaje()
+    {
+      if (!darkModeActive)
+      {
+            // disable the virtual camera's GameObject
+            camaraPrincipal.gameObject.SetActive(false);
+            OtroChar.gameObject.SetActive(true);
+            darkModeActive = true;
+            this.gameObject.SetActive(false);
+        }
+      else
+      {
+            camaraPrincipal.gameObject.SetActive(true);
+            OtroChar.gameObject.SetActive(false);
+            darkModeActive = false;
+      }
+    }
+
 }
